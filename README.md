@@ -16,10 +16,10 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
 ![image](https://user-images.githubusercontent.com/46899938/182158170-57debd47-1105-4f46-8783-d04c5745c234.png)
+![image](https://user-images.githubusercontent.com/46899938/182158353-aa23f09d-282e-4201-8351-836720b82147.png)
+![image](https://user-images.githubusercontent.com/46899938/182158421-48342a8f-c2bb-4fd7-85cd-d91ababb211c.png)
+![image](https://user-images.githubusercontent.com/46899938/182158477-5ade2f00-8117-4032-8698-9b7d0e3bba89.png)
+![image](https://user-images.githubusercontent.com/46899938/182158557-b1645a1f-f536-4948-9cbe-ee913ff63882.png)
+![image](https://user-images.githubusercontent.com/46899938/182158745-747c442d-68e7-4803-ba3e-1e2d72ddf8d7.png)
+
